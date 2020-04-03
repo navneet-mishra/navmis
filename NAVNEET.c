@@ -18,7 +18,7 @@ int main()
  break; 
  case 4: printf("%d AS\n",n+5);
  break;
- case 5: printf("%d MS\n",n+3);
+   case 5: printf("%d MS\n",n+3);
  break;
  case 6: printf("%d WS\n",n+1);
  break;
